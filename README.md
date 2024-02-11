@@ -6,4 +6,4 @@
 
  ***     
  
- # SpotX-Mac is rebranced as BlockTheSpot-Mac and moved to https://github.com/Nuzair46/BlockTheSpot-Mac
+ # SpotX-Mac is rebranded as BlockTheSpot-Mac and moved to https://github.com/Nuzair46/BlockTheSpot-Mac
